@@ -1,0 +1,13 @@
+C:\Users\Elie\Documents\TD\TD12\TD12\bin\Debug\netcoreapp3.1\TD12.exe
+C:\Users\Elie\Documents\TD\TD12\TD12\bin\Debug\netcoreapp3.1\TD12.deps.json
+C:\Users\Elie\Documents\TD\TD12\TD12\bin\Debug\netcoreapp3.1\TD12.runtimeconfig.json
+C:\Users\Elie\Documents\TD\TD12\TD12\bin\Debug\netcoreapp3.1\TD12.runtimeconfig.dev.json
+C:\Users\Elie\Documents\TD\TD12\TD12\bin\Debug\netcoreapp3.1\TD12.dll
+C:\Users\Elie\Documents\TD\TD12\TD12\bin\Debug\netcoreapp3.1\TD12.pdb
+C:\Users\Elie\Documents\TD\TD12\TD12\obj\Debug\netcoreapp3.1\TD12.csprojAssemblyReference.cache
+C:\Users\Elie\Documents\TD\TD12\TD12\obj\Debug\netcoreapp3.1\TD12.AssemblyInfoInputs.cache
+C:\Users\Elie\Documents\TD\TD12\TD12\obj\Debug\netcoreapp3.1\TD12.AssemblyInfo.cs
+C:\Users\Elie\Documents\TD\TD12\TD12\obj\Debug\netcoreapp3.1\TD12.csproj.CoreCompileInputs.cache
+C:\Users\Elie\Documents\TD\TD12\TD12\obj\Debug\netcoreapp3.1\TD12.dll
+C:\Users\Elie\Documents\TD\TD12\TD12\obj\Debug\netcoreapp3.1\TD12.pdb
+C:\Users\Elie\Documents\TD\TD12\TD12\obj\Debug\netcoreapp3.1\TD12.genruntimeconfig.cache
